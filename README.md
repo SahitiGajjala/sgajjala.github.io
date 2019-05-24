@@ -16,13 +16,11 @@ Project Website
 <a href="#/" target="_top" >Contact</a
       </td>
      <td valign="top"><h2 align="center">Welcome!</h2>
-     <Div Align = "center"><p>Welcome to my first sample webpage. I create the sample page in
-without using
-webpage editor.</p>
-     <p> I have add the html code in this page. I am only add text title,heading,menu,font,background
-color, footer,Div Align and horizonatal line.</p>
+     <Div Align = "center"><p>Welcome to my first sample webpage. 
+     </p>
+     <p> Test. </p>
      <blockquote>
-       <p>I always wanted to be somebody, but now I realize I should have been more specific.</p>
+       <p> SolarisUV Project </p>
 </Div>
 <hr>
      <td width="200">
